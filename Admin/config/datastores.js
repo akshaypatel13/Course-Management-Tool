@@ -49,7 +49,7 @@ module.exports.datastores = {
     *                                                                          *
     ***************************************************************************/
    adapter: 'sails-mysql',
-   url: 'mysql://deep:deep6844@cloudproject.ctbnbdx7vmpq.us-east-1.rds.amazonaws.com:3306/project_admin',
+   url: 'mysql://*****************************.amazonaws.com:3306/project_admin',
 
   },
 
